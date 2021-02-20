@@ -1,0 +1,5 @@
+*.pyc
+*.sql
+*.xml
+*.docx
+*.csv
